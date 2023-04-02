@@ -1,35 +1,35 @@
-# Utilisation de l'API Food 2 Fork : https://food2fork.ca/
+# Using the Food 2 Fork API: https://food2fork.ca/
 
 
-## Installation
+## Facility
 
-- Clonez le projet depuis GitHub :
-- git clone https://github.com/monutilisateur/mon-application.git
-- Ouvrez le projet dans Android Studio en sélectionnant "File" > "Open" et en naviguant jusqu'au dossier du projet.
-- Compilez et exécutez l'application en cliquant sur "Run" dans Android Studio.
-
-
-## Fonctionnalités
-
-SplashScreen : Ecran de lancement de l'application
-Main : Liste des recettes
-Search :Liste de recherche des recettes
-Detail : Détail de la recette
-Bibliothèques utilisées
+- Clone the project from GitHub:
+- git clone https://github.com/SarahLacoffrette/SupFood.git
+- Open the project in Android Studio by describing "File" > "Open" and navigating to the project folder.
+- Compile and distribute the application by clicking "Run" in Android Studio.
 
 
-## Mon Application utilise les bibliothèques suivantes :
+## Features
 
-Retrofit : pour les appels API
-Room : pour la persistance des données
-Compose : pour l'interface utilisateur
-
-
-## Configuration requise
-
-Android 6.0 ou version ultérieure
+SplashScreen: Application launch screen
+Main: List of recipes
+Search:Recipe Search List
+Detail: Recipe detail
 
 
-## Auteur
+##Libraries used
 
-Mon Application a été développée par Sarah Lacoffrette.
+My Application uses the following libraries:
+Retrofit: for API calls
+Room: for data persistence
+Composer: for UI
+
+
+## Required configuration
+
+Android 6.0 or later
+
+
+## Author
+
+My application was developed by Sarah Lacoffrette.
